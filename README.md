@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dalveer Singh</h1>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-2.gif">
 
