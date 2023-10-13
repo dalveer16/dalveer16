@@ -2,9 +2,22 @@
 
 
 <h3 align="center">A passionate full stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-2.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadmorye5&label=Profile%20views&color=0e75b6&style=flat" alt="prasadmorye5" /> </p>
+
+- 🔭 I’m currently working on **Valiant Communications**
+
+- 🌱 I’m currently learning **DevOps**
+
+- 👯 I’m looking to collaborate on **Full Stack Projects**
+
+- 💬 Ask me about **Javascript, React.js, Redux, Express.js, MongoDB**
 
 - 📫 How to reach me **dalveersinghrehsi@gmail.com**
+
+<img align="right" alt="Coding" width="400" src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-2.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
