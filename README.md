@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Javascript, React.js, Redux, Express.js, MongoDB**
 
-- 📫 How to reach me **dalveersinghrehsi@gmail.com**
+- 📫 How to reach me **dalveersinghrehsi@outlook.com**
 
 <img align="right" alt="Coding" width="400" src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-2.gif">
 
