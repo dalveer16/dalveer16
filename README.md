@@ -6,7 +6,7 @@
 
 
 <p align="left"> <img
-    src="https://komarev.com/ghpvc/?username=prasadmorye5&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=dalveer16&label=Profile%20views&color=0e75b6&style=flat"
     alt="prasadmorye5" /> </p>
 
 - 🔭 I’m currently working at **Valiant Communications**
