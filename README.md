@@ -1,119 +1,227 @@
+# 💫 About Me
 
-<h1 align="center">Hi 👋, I'm Dalveer Singh</h1>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D8FF&background=FFFFFF00&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Dalveer+Singh;Full+Stack+Developer+%F0%9F%9A%80;DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+</div>
 
-<h3 align="center">A passionate full stack developer</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" alt="Coding Animation"/>
+</div>
 
+## 🚀 Quick Facts
 
-<p align="left"> <img
-    src="https://komarev.com/ghpvc/?username=dalveer16&label=Profile%20views&color=0e75b6&style=flat"
-    alt="prasadmorye5" /> </p>
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working at **Valiant Communications**
+- 🏢 **Currently Working:** Full Stack Developer at **Valiant Communications**
+- 🌱 **Learning:** Advanced DevOps practices and cloud technologies
+- 👥 **Collaboration:** Open to Full Stack Projects and innovative solutions
+- 💡 **Expertise:** JavaScript ecosystem, React.js, Node.js, MongoDB
+- 🎯 **Goal:** Building scalable applications that make a difference
+- 📧 **Contact:** [dalveersinghrehsi@outlook.com](mailto:dalveersinghrehsi@outlook.com)
+- 🌍 **Location:** India
+- ⚡ **Fun fact:** I debug code with coffee and solve algorithms for fun!
 
-- 🌱 I’m currently learning **DevOps**
+---
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+## 🛠️ Technology Stack
 
-- 💬 Ask me about **Javascript, React.js, Redux, Express.js, MongoDB**
+### Frontend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,sass,tailwind,bootstrap,figma" alt="Frontend Skills" />
+</div>
 
-- 📫 How to reach me **dalveersinghrehsi@outlook.com**
-<br/><br/>
-<img align="right" alt="Coding" width="400"
-  src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-2.gif">
+### Backend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,mysql,oracle,firebase" alt="Backend Skills" />
+</div>
 
+### DevOps & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,linux,nginx,grafana,postman" alt="DevOps Skills" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/dalveer-singh-24114116b/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/dalveer-singh-24114116b/" height="30" width="40" /></a>
-  <a href="https://leetcode.com/dalveersingh/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="https://leetcode.com/dalveersingh/" height="30" width="40" /></a>
-</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+### Programming Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,matlab" alt="Programming Languages" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" /> </a> <a
-    href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker" width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express" width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a> <a
-    href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
-    href="https://grafana.com" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" /> </a> <a
-    href="https://graphql.org" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" /> </a> <a
-    href="https://heroku.com" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a> <a
-    href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" /> </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /> </a> <a
-    href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40"
-      height="40" /> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />
-  </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-      width="40" height="40" /> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" />
-  </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40" /> </a> <a
-    href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb" width="40" height="40" /> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"
-    rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"
-      width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
-      width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle"
-      width="40" height="40" /> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
-      width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript" width="40" height="40" /> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-      alt="webpack" width="40" height="40" /> </a> </p>
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dalveer16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalveer16&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dalveer16&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dalveer16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dalveer16&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" height="150" alt="DevOps"/>
+        <br>
+        <strong>🔧 DevOps Journey</strong>
+        <br>
+        <em>Mastering CI/CD, containerization, and cloud platforms</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" height="150" alt="Full Stack"/>
+        <br>
+        <strong>🚀 Full Stack Innovation</strong>
+        <br>
+        <em>Building scalable applications with modern tech stack</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<!-- You can add your specific projects here -->
+<div align="center">
+  <a href="https://github.com/dalveer16/Daily-DSA-Practice">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dalveer16&repo=Daily-DSA-Practice&theme=tokyonight&hide_border=true" alt="Daily DSA Practice"/>
+  </a>
+</div>
+
+---
+
+## 💼 Professional Experience
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="200" alt="Professional"/>
+</div>
+
+**Full Stack Developer** @ Valiant Communications
+- 🔨 Developing robust web applications using modern JavaScript frameworks
+- 📱 Creating responsive and user-friendly interfaces
+- 🔧 Implementing efficient backend solutions
+- 🤝 Collaborating with cross-functional teams
+
+---
+
+## 📚 Skills Deep Dive
+
+<details>
+<summary>🎨 <strong>Frontend Development</strong></summary>
+<br>
+
+- **React.js** - Component-based architecture, hooks, context API
+- **Redux** - State management for complex applications
+- **TypeScript** - Type-safe JavaScript development
+- **Responsive Design** - Mobile-first approach with CSS Grid & Flexbox
+- **UI/UX** - Creating intuitive user interfaces with Figma
+
+</details>
+
+<details>
+<summary>⚙️ <strong>Backend Development</strong></summary>
+<br>
+
+- **Node.js & Express.js** - RESTful API development
+- **MongoDB** - NoSQL database design and optimization
+- **GraphQL** - Efficient data fetching and manipulation
+- **Authentication** - JWT, OAuth, and session management
+- **Database Design** - MySQL, Oracle, SQL Server
+
+</details>
+
+<details>
+<summary>☁️ <strong>DevOps & Infrastructure</strong></summary>
+<br>
+
+- **Docker** - Containerization and microservices
+- **Kubernetes** - Container orchestration
+- **CI/CD** - Jenkins, GitHub Actions
+- **Monitoring** - Grafana, Kibana
+- **Cloud Platforms** - Heroku, Firebase
+
+</details>
+
+---
+
+## 🎯 LeetCode Progress
+
+<div align="center">
+  <img src="https://leetcode.card.workers.dev/dalveersingh?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/dalveer-singh-24114116b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/dalveersingh/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:dalveersinghrehsi@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+## 📈 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dalveer16&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</div>
+
+---
+
+⭐️ From [dalveer16](https://github.com/dalveer16)
